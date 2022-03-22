@@ -1,6 +1,6 @@
 Hello! This is my very first project. It is part of the Odin Projects "Foundations" course. With this project, I aim to demonstrate my basic HTMl knowledge by building a basic recipe website.
 <p>
-<h4>Sources recipe:</h4>
+<h4>Sources recipes:</h4>
     <ul>
         <li>Kompot: https://www.youtube.com/watch?v=9bZk6wXCMCY</li>
         <li> Avgolemono: https://www.themediterraneandish.com/avgolemono-soup-recipe/</li>
